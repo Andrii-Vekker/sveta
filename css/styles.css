@@ -1,0 +1,67 @@
+.subscription {
+  height: 250px;
+}
+.visit {
+  padding: 5px;
+  width: 500px;
+  height: 226px;
+  border: 1px solid black;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.image {
+  width: 490px;
+  height: 202px;
+  background-color: transparent;
+}
+.visit-1 {
+  padding-top: 5px;
+  margin: 0;
+  margin-top: auto;
+  text-align: center;
+  width: 500px;
+  height: 226px;
+  border: 1px solid black;
+  margin: 0 auto;
+  color: rgb(86, 92, 100);
+  background-color: #fff;
+  background-image: url(../pictures/bc.jpg);
+  background-repeat: no-repeat;
+  background-size: 60px 60px;
+  background-position: 100% 100%;
+}
+.visit-list {
+  font-size: 17px;
+  display: block;
+  text-align: start;
+  margin: 0;
+}
+.text-insta {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.insta {
+  background-color: transparent;
+  width: 15px;
+  height: 15px;
+  margin-right: 4px;
+  display: block;
+}
+.name {
+  font-weight: 700;
+  font-size: 18px;
+}
+.tel {
+  font-weight: 700;
+  font-size: 16px;
+}
+.prof-name {
+  font-weight: 800;
+  font-size: 20px;
+  border: 2px solid teal;
+  border-radius: 2px;
+  border-style: dashed;
+}
