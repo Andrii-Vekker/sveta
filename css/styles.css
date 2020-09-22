@@ -59,6 +59,9 @@
   font-size: 16px;
 }
 .prof-name {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-weight: 800;
   font-size: 20px;
   border: 2px solid teal;
