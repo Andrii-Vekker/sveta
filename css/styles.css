@@ -1,7 +1,11 @@
+.vizit-card {
+  margin-top: 25px;
+}
 .subscription {
   height: 250px;
 }
 .visit {
+  margin-top: 30px;
   padding: 5px;
   width: 488px;
   height: 226px;
@@ -17,6 +21,7 @@
 }
 .visit-1 {
   padding-top: 5px;
+  padding-bottom: 5px;
   margin: 0;
   margin-top: auto;
   text-align: center;
